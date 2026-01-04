@@ -27,7 +27,6 @@
     {"key":"modudm","name":"🎬 魔都动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":false},
     {"key":"shanhai","name":"🎬 山海资源","type":1,"api":"https://zy.sh0o.cn/api.php/provide/vod","searchable":0,"quickSearch":0,"filter":false},
     {"key":"jinchan","name":"🎬 金蝉影视","type":1,"api":"https://zy.jinchancaiji.com/api.php/provide/vod","searchable":0,"quickSearch":0,"filter":false},
-
     {"key":"madou","name":"🔞 麻豆视频","type":1,"api":"https://madou.cfd/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
     {"key":"fc2","name":"🔞 FC2视频","type":1,"api":"https://fc2hub.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
     {"key":"avre","name":"🔞 AVRE资源","type":1,"api":"https://avre01.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
@@ -36,6 +35,15 @@
     {"key":"hhzy","name":"🔞 黄瓜资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
     {"key":"sewo","name":"🔞 色窝资源","type":1,"api":"https://sewozy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
     {"key":"tianmei","name":"🔞 天美传媒","type":1,"api":"https://tianmei.cyou/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
-    {"key":"girigiri","name":"🔞 GiriGiri","type":1,"api":"https://girigiri.mom/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true}
+    {"key":"girigiri","name":"🔞 GiriGiri","type":1,"api":"https://girigiri.mom/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"91md","name":"🔞 91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"ssrj","name":"🔞 SSRJ资源","type":1,"api":"https://ssrjzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"mgzy","name":"🔞 萌果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"apilj","name":"🔞 老司机资源","type":1,"api":"https://apilj.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"kxgav","name":"🔞 开心果AV","type":1,"api":"https://kxgav.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"dadi","name":"🔞 大地资源","type":1,"api":"https://dadiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"xiaoma","name":"🔞 小马资源","type":1,"api":"https://xiaoma.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"kkzy","name":"🔞 KK资源","type":1,"api":"https://kkzy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true},
+    {"key":"lezhutv","name":"🔞 乐猪TV","type":1,"api":"https://lezhuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filter":true}
   ]
 }
